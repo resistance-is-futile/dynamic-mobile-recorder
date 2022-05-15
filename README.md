@@ -1,1 +1,1 @@
-# dynamic-mobile-rocorder
+# dynamic-mobile-recorder
